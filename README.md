@@ -3,3 +3,4 @@
 оригинал <https://www.tweaking4all.com/hardware/arduino/arduino-all-ledstrip-effects-in-one/>
 Эфекты "закольцованы" т.е. постоянно повторяются.
 Используется на Arduino Uno и NUCLEO-L053R8 - STM32 Nucleo-64
+TurnLeft_Right - "поворотники" на NUCLEO-L053R8 - STM32 Nucleo-64 . Долгое нажатие UserButton на плате - левый попорот , короткое - правый .
